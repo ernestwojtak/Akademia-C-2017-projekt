@@ -1,0 +1,5 @@
+Projekt: Program do planowania remontu
+
+Technologia: WPF
+
+Opis dzia³ania: U¿ytkownik bêdzie móg³ stworzyæ bazê danych na temat znanych sobie firm remontowych, podaj¹c dla ka¿dej z nich cenê remontu okreœlonej czêœci domu (kuchnia, ³azienka, nowy dach, schody itp.), czas wykonania takiego remontu oraz koszt malowania pokoju w przeliczeniu na metr kwadratowy i szybkoœæ malowania. Nastêpnie u¿ytkownik bêdzie móg³ u¿yæ programu do stworzenia wyceny oraz obliczenia czasu remontu dla okreœlonych warunków. Oznacza to, ¿e u¿ytkownik wybierze jakie czêœci domu chcia³by wyremontowaæ (np. jeœli chce wyremontowaæ kuchniê, do wyboru bêdzie mia³ równie¿ wyposa¿enie, rodzaj mebli itp.) oraz jaka firma mia³aby siê tym zaj¹æ, a program poda cenê oraz czas remontu. Jeœli u¿ytkownik zdecyduje siê na malowanie mieszkania, po pierwsze bêdzie musia³ podaæ iloœæ pokojów, ich dok³adne wymiary (dla obliczenia powierzchni œcian - brane pod uwagê bêd¹ równie¿ takie czynniki jak drzwi oraz okna), kolor i jakoœæ farby oraz firmê wykonawcz¹. Program poda cenê oraz czas malowania. W interfejsie dostêpna równe¿ bêdzie funkcja porównywania firm.
