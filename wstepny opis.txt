@@ -2,17 +2,20 @@ Projekt: Program do planowania remontu
 
 Technologia: WPF
 
-Opis dzia³ania: U¿ytkownik bêdzie móg³ stworzyæ bazê danych na temat znanych sobie 
-firm remontowych, podaj¹c dla ka¿dej z nich cenê remontu okreœlonej czêœci domu 
-(kuchnia, ³azienka, nowy dach, schody itp.), czas wykonania takiego remontu oraz 
-koszt malowania pokoju w przeliczeniu na metr kwadratowy i szybkoœæ malowania. 
-Nastêpnie u¿ytkownik bêdzie móg³ u¿yæ programu do stworzenia wyceny oraz obliczenia 
-czasu remontu dla okreœlonych warunków. Oznacza to, ¿e u¿ytkownik wybierze jakie 
-czêœci domu chcia³by wyremontowaæ (np. jeœli chce wyremontowaæ kuchniê, do wyboru 
-bêdzie mia³ równie¿ wyposa¿enie, rodzaj mebli itp.) oraz jaka firma mia³aby siê 
-tym zaj¹æ, a program poda cenê oraz czas remontu. Jeœli u¿ytkownik zdecyduje siê 
-na malowanie mieszkania, po pierwsze bêdzie musia³ podaæ iloœæ pokojów, ich 
-dok³adne wymiary (dla obliczenia powierzchni œcian - brane pod uwagê bêd¹ równie¿ 
-takie czynniki jak drzwi oraz okna), kolor i jakoœæ farby oraz firmê wykonawcz¹. 
-Program poda cenê oraz czas malowania. W interfejsie dostêpna równe¿ bêdzie funkcja 
-porównywania firm.
+Opis dziaÅ‚ania: UÅ¼ytkownik bÄ™dzie mÃ³gÅ‚ stworzyÄ‡ bazÄ™ danych na temat znanych sobie 
+firm remontowych, podajÄ…c dla kaÅ¼dej z nich cenÄ™ remontu okreÅ›lonej czÄ™Å›ci domu 
+(kuchnia, Å‚azienka, nowy dach, schody itp.), czas wykonania takiego remontu oraz 
+koszt malowania pokoju w przeliczeniu na metr kwadratowy i szybkoÅ›Ä‡ malowania. 
+NastÄ™pnie uÅ¼ytkownik bÄ™dzie mÃ³gÅ‚ uÅ¼yÄ‡ programu do stworzenia wyceny oraz obliczenia 
+czasu remontu dla okreÅ›lonych warunkÃ³w. Oznacza to, Å¼e uÅ¼ytkownik wybierze jakie 
+czÄ™Å›ci domu chciaÅ‚by wyremontowaÄ‡ (np. jeÅ›li chce wyremontowaÄ‡ kuchniÄ™, do wyboru 
+bÄ™dzie miaÅ‚ rÃ³wnieÅ¼ wyposaÅ¼enie, rodzaj mebli itp.) oraz jaka firma miaÅ‚aby siÄ™ 
+tym zajÄ…Ä‡, a program poda cenÄ™ oraz czas remontu. JeÅ›li uÅ¼ytkownik zdecyduje siÄ™ 
+na malowanie mieszkania, po pierwsze bÄ™dzie musiaÅ‚ podaÄ‡ iloÅ›Ä‡ pokojÃ³w, ich 
+dokÅ‚adne wymiary (dla obliczenia powierzchni Å›cian - brane pod uwagÄ™ bÄ™dÄ… rÃ³wnieÅ¼ 
+takie czynniki jak drzwi oraz okna), kolor i jakoÅ›Ä‡ farby oraz firmÄ™ wykonawczÄ…. 
+Program poda cenÄ™ oraz czas malowania. W interfejsie dostÄ™pna rÃ³wneÅ¼ bÄ™dzie funkcja 
+porÃ³wnywania firm.
+
+Ernest Wojtak zajmie siÄ™ tworzeniem bazy firm i czÄ™Å›ciÄ… dot. malowania
+MichaÅ‚ GÃ³rka zajmie siÄ™ czÄ™Å›ciÄ… remontowÄ… oraz porÃ³wnywarkÄ… firm
